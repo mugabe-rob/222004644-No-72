@@ -1,4 +1,4 @@
-public class UnaryOperator {
+public class UnaryOperato {
     public static void main(String args[])
   {
  //AND OPERATOR
